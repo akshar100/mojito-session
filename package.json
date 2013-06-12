@@ -6,7 +6,7 @@
 	"keywords": ["yahoo","mojito","session","web"],
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git@github.com:akshar100/mojito-session.git"
 	},
 	"yahoo": {
         "mojito": {
