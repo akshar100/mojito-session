@@ -1,6 +1,8 @@
 mojito-session-addon
 =======================
 
+From your app directory use `npm install mojito-session-addon` to install the addon. 
+
 This is a simple session management library that uses Y.Cache underneath. 
 Add "mojito-session-addon" to the `requires:[]` array of a mojit controller and the session will be available in following fashion. 
 
