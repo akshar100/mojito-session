@@ -1,0 +1,20 @@
+{
+	"name": "mojito-session-addon",
+	"version": "0.0.6",
+	"description": "Yahoo! Mojito is a web framework. This addon provides session management feature to Yahoo! Mojito. For help reach akshar@akshar.co.in",
+	"main": "main.js",
+	"keywords": ["yahoo","mojito","session","web"],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"yahoo": {
+        "mojito": {
+            "type": "bundle",
+            "version": "*",
+            "location":"mojito"
+        }
+    },
+    "author":"Akshar Prabhu Desai <akshar@akshar.co.in>",
+    "license": "MIT"
+}
